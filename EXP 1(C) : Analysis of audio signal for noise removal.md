@@ -1,4 +1,4 @@
-# EXP 1 :  ANALYSIS OF DFT WITH AUDIO SIGNAL
+# EXP 1 :  ANALYSIS OF AUDIO SIGNAL WITH NOISE REMOVAL
 
 # AIM: 
 
@@ -139,4 +139,5 @@ display(Audio(recovered, rate=fs))
 
 
 # RESULTS
-    Thus ,the audio signal was analyzed using DFT.
+
+    Thus ,the audio signal is made noise free by removing unwanted signals.
